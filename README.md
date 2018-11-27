@@ -1,3 +1,12 @@
+STUml
+=======
+* STUml@v Structural Diagramming Representation of Charting
+* @a Install the Source and have a compiled version
+* @cr Checked out on JGMAC:/Users/jgi/stuml/src/stuml
+
+
+
+____
 PlantUML
 ========
 [![Build Status](https://travis-ci.org/plantuml/plantuml.png?branch=master)](https://travis-ci.org/plantuml/plantuml)
